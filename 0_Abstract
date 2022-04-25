@@ -1,1 +1,3 @@
-Most educational institutions’ administrators are concerned about student irregular attendance. Truancies can affect student overall academic performance. The conventional method of taking attendance by calling names or signing on paper is very time consuming and insecure, hence inefficient. Radio Frequency Identification (RFID) is an interesting solution in such cases. RFID based attendance system is one of the solutions to address this problem.
+This simple fingerprint door unlock project using Arduino can be very useful for door security, forensics, crime investigation, personal identification, attendance system and much more. In the future, there could be many more applications like fingerprint based driving licences, bank accounts operation and so on.
+
+The whole system works under a simple algorithm called matching algorithm, which is used to compare previously-stored templates of fingerprints against users’ fingerprints for authentication purposes.
