@@ -1,0 +1,2 @@
+Make sure the baud rate given in the program is correct. Baud rate for the serial monitor can be anything but the baud rate for R305 sensor should match that given in its datasheet. Baud rate may vary with different versions of the sensor. It is given in the program like Serial.begin(38400) [baud rate for serial monitor]; finger.begin(57600) [baud rate for sensor]. Reset Arduino board before validation of the fingerprint.
+
